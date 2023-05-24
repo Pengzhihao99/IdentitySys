@@ -4198,11 +4198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "E:\\workspace-git\\IdentitySys\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\WebAPI\\WebAPI.csproj",
+      "projectPath": "E:\\workspace-git\\IdentitySys\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\WebAPI\\obj\\",
+      "outputPath": "E:\\workspace-git\\IdentitySys\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4224,14 +4224,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Interface\\Interface.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Interface\\Interface.csproj"
+            "E:\\workspace-git\\IdentitySys\\Interface\\Interface.csproj": {
+              "projectPath": "E:\\workspace-git\\IdentitySys\\Interface\\Interface.csproj"
             },
-            "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj"
+            "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj": {
+              "projectPath": "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj"
             },
-            "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Service\\Service.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Service\\Service.csproj"
+            "E:\\workspace-git\\IdentitySys\\Service\\Service.csproj": {
+              "projectPath": "E:\\workspace-git\\IdentitySys\\Service\\Service.csproj"
             }
           }
         }

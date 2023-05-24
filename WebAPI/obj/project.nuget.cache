@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Sjq092Z7UdEFgsVVLl3AICXTYSdc7Yd3CR4AtXxTK4XbxCIY9aq/HX8pF5mfVQzUUrVgP9qSxXdVb3Bps6A1g==",
+  "dgSpecHash": "8Mu41lWMJ3rue84966MGWOsuEshbQRKOSirvRc/N0NhiYboX0248nNVFFZ4Iiz4BOUXtOpqFLo0Sgl1y44tWmg==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "E:\\workspace-git\\IdentitySys\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EgBKTF4J5mO8utAhJoe/P4/27qlW+SAEoLuvkm4IqmOfsiLKzK8cqPZ8K6thgsD3YO27RGb5QCXpYvQIXKEBlg==",
+  "dgSpecHash": "dThkxjwFo9VE6f5C9qEZRp7NXywyW7oIMUT3b8fmce6+leRpW5sL4+PihnjvO0gG8Pcl85H1tMVMm63hEEVOaA==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Service\\Service.csproj",
+  "projectFilePath": "E:\\workspace-git\\IdentitySys\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",

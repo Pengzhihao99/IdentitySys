@@ -7328,11 +7328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj",
+      "projectUniqueName": "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj",
+      "projectPath": "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\obj\\",
+      "outputPath": "E:\\workspace-git\\IdentitySys\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

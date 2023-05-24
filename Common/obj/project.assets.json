@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\workspace-git\\IdentitySys\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Common\\Common.csproj",
+      "projectPath": "E:\\workspace-git\\IdentitySys\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Common\\obj\\",
+      "outputPath": "E:\\workspace-git\\IdentitySys\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

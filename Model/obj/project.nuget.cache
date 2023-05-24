@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJodMiuiagkZ8t+ql90SdXPbLySxXHkKMBz6rWSGgk3Zr2t+PuO2KMODTlMRqzlfW92P71G8mvbdwO+dR7b05g==",
+  "dgSpecHash": "8mHxfl1OmHNVEXJT4SJuGebkVnkYn5n91Hc3SHeuHJImvYQIGAgwGelejJsXndaN6kyRksddS/KJk0C2gmZq7w==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj",
+  "projectFilePath": "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

@@ -7346,11 +7346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Interface\\Interface.csproj",
+      "projectUniqueName": "E:\\workspace-git\\IdentitySys\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Interface\\Interface.csproj",
+      "projectPath": "E:\\workspace-git\\IdentitySys\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Interface\\obj\\",
+      "outputPath": "E:\\workspace-git\\IdentitySys\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7372,8 +7372,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\课件&源码\\code\\IdentitySys\\Model\\Model.csproj"
+            "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj": {
+              "projectPath": "E:\\workspace-git\\IdentitySys\\Model\\Model.csproj"
             }
           }
         }
